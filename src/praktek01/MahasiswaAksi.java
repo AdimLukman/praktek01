@@ -13,6 +13,13 @@ public class MahasiswaAksi {
     public static void main(String[] args) {
         mahasiswa Harry = new mahasiswa();
         
+        Harry.nama="Harry Potter";
+        Harry.NPM="16630312";
+        Harry.Jurusan="Tehnik Informatika";
+        Harry.Matkul="PBO";
+        Harry.Kelas="Reguler Malam";
+        Harry.IPK=3.5;
+        
     }
     
 }
