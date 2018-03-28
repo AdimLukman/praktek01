@@ -20,6 +20,8 @@ public class MahasiswaAksi {
         Harry.Kelas="Reguler Malam";
         Harry.IPK=3.5;
         
+        Harry.cetakInfo();
+        
     }
     
 }
