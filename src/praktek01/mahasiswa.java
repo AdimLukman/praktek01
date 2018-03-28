@@ -10,5 +10,20 @@ package praktek01;
  * @author flea
  */
 public class mahasiswa {
+    String nama;
+    String NPM;
+    String Jurusan;
+    String Matkul;
+    String Kelas;
+    double IPK;
+    
+    void cetakInfo() {
+        System.out.println("Nama :"+nama);
+        System.out.println("NPM  :"+NPM);
+        System.out.println("Jurusan  :"+Jurusan);
+        System.out.println("Matkul  :"+Matkul);
+        System.out.println("Kelas  :"+Kelas);
+        System.out.println("IPK  :"+IPK);
+    }     
     
 }
